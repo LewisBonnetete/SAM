@@ -1,2 +1,2 @@
 # SAM
-![](Demo Sam.gif) 
+![](./Demo Sam.gif) 
