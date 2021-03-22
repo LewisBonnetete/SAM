@@ -1,0 +1,1631 @@
+{
+  "meetings": [
+    {
+      "date": "2020-04-05",
+      "id": 1,
+      "language": "en-US",
+      "op_id": -1,
+      "participants": [3, 1],
+      "progressPercent": 100,
+      "status": "SUCCESS",
+      "subjects": ["Mvp", "Rencontre"],
+      "title": "Premiere reu",
+      "transcript": [
+        {
+          "confidence": 0.97,
+          "end_time": "4s",
+          "sentence": "Talk about the kind of things we're scoping out",
+          "speaker": "Speaker1",
+          "start_time": "0s"
+        }
+      ],
+      "transcript_azure": [],
+      "transcript_stream": [],
+      "url_files": ""
+    },
+    {
+      "date": "2020-08-09",
+      "id": 2,
+      "language": "en-US",
+      "op_id": -1,
+      "participants": [1, 2],
+      "progressPercent": 100,
+      "status": "SUCCESS",
+      "subjects": ["poc"],
+      "title": "Debut Ideation",
+      "transcript": [
+        {
+          "confidence": 0.97,
+          "end_time": "4s",
+          "sentence": "It doesn't matter if I'm actually good at it",
+          "speaker": "Speaker1",
+          "start_time": "0s"
+        }
+      ],
+      "transcript_azure": [],
+      "transcript_stream": [],
+      "url_files": ""
+    },
+    {
+      "date": "2020-11-11",
+      "id": 3,
+      "language": "en-US",
+      "op_id": -1,
+      "participants": [1, 2],
+      "progressPercent": 100,
+      "status": "SUCCESS",
+      "subjects": ["poc"],
+      "title": "Debut Ideation",
+      "transcript": [
+        {
+          "confidence": 0.97,
+          "end_time": "4s",
+          "sentence": "So that's what Lauren did",
+          "speaker": "Speaker1",
+          "start_time": "0s"
+        }
+      ],
+      "transcript_azure": [],
+      "transcript_stream": [],
+      "url_files": ""
+    },
+    {
+      "date": "2020-02-12",
+      "id": 4,
+      "language": "en-US",
+      "op_id": "1868046635241635987",
+      "participants": [1, 2],
+      "progressPercent": 100,
+      "status": "SUCCESS",
+      "subjects": ["test", "scroll"],
+      "title": "long audio",
+      "transcript": [
+        {
+          "confidence": 0,
+          "end_time": "72s",
+          "sentence": " right time attached on me here I'm we are the meanwhile but same format as the last time so see if this much switching over after my first two screens. I I have emailed you the minutes of the last meeting just to save time. Okay, cool. And is there any questions you have arise from last meeting that? particular bothering me No, I didn't think so. Then we shall start with a presentation from Ranch. Yeah.",
+          "speaker": 1,
+          "start_time": "5.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "334.700s",
+          "sentence": " I'm a Daddy again in this meeting. I am going to discuss with the trend watching how this Trends is going to affect our Market potential and how important is this. So we have to look on this. First of all methodology they made methodology to find out the trend was in Kruger was done in a way we have done it is not only research remote control Market survey, but we also considered the latest fashion trends of the market because we think that this is also a factor which will affect our sales and profit. So what are our findings in our findings? We have seen that when we did our remote-control Market survey, we found that people people do have preference for those fancy mobile for remote controls which look and feel very good rather than having a functional look and feel good. So this this clearly indicates their preference for the design their Outlook of the remote. Rolls, so we should take into we should consider this Factor as the most important factor because this factor is twice as important the second factor, which is further the twice the as important as the second the third Factor. So this Factor becomes the most important factor in our server in our mark means intake and designing our remote controls. The last one is most important one. No, the first one is the the Outlook of the mobile the it should have a fancy Outlook the fancy design rather than just having a functional look and feel good. It should have a fancy look and feel good. This second most important aspect is that remote control should be a technologically Innovative. We must have some technological advancement in the remote control the rather than just putting it as it is as the other remote controls are so it should be technologically innovative. Native like glow-in-the-dark or speech recognition or something like that. So that indicates our technological advancement and The third most important aspect in this to take into consideration is that it should be easy to use like it shouldn't be too much complicated there shouldn't be too many buttons on this mobile remote control. It shouldn't be too complicated and like this way and it should be and customers should be provided with manuals that is easy to understand in their local language something so that they would know how to use this remote controls. When we did Fashions recent fashion our recent fashion update shows that sorry. Yeah. Yeah, we have to because you can see how people have related the clothes shoes and Furniture everything with fruits and vegetables. So sick world is now changing its Trend towards organic becoming more and more. Organic is having big sponge lemon. Yeah, so that's yeah, I get it. So something like that we should do and people the feel of the material is expected to be spongy rather than just having a plastic. Look hard. Look. Well. That's good. That's yeah. Yeah predict so so that they could play with it while handy while handling it. Okay, so that should also be taken into Consideration. So these are my views. Okay the spongy not real spongy you can it can think like rubber would be good or does it really want delivered which is good for health and which is quite disposable. Okay that we can take it. Yeah. It shouldn't be have any harm to the environment also because our company is very well adapted for taking all these concerns into consideration. So we don't want to have any harm to the society Okay, so",
+          "speaker": 3,
+          "start_time": "77s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "341.300s",
+          "sentence": " That's all.",
+          "speaker": 1,
+          "start_time": "340.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "359.100s",
+          "sentence": " Next to you, whether any factors that weren't important in the survey that they said we",
+          "speaker": 3,
+          "start_time": "354.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "360.800s",
+          "sentence": " don't want",
+          "speaker": 1,
+          "start_time": "359.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "370.300s",
+          "sentence": " weird find out any such Point. Yes there could be but we couldn't find out any curves.",
+          "speaker": 3,
+          "start_time": "362.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "377.800s",
+          "sentence": " F",
+          "speaker": 1,
+          "start_time": "376.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "378.800s",
+          "sentence": " what is it?",
+          "speaker": 3,
+          "start_time": "378.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "387.600s",
+          "sentence": " Yeah, okay.",
+          "speaker": 1,
+          "start_time": "384.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "389.200s",
+          "sentence": " Yeah, you're so",
+          "speaker": 3,
+          "start_time": "388.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "393.100s",
+          "sentence": " disgusting. I know.",
+          "speaker": 1,
+          "start_time": "389.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "406.500s",
+          "sentence": " Sunday, yes, yeah. Okay, and then F5,",
+          "speaker": 3,
+          "start_time": "398.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "407s",
+          "sentence": " right?",
+          "speaker": 1,
+          "start_time": "406.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "447.400s",
+          "sentence": " okay, so the interface concept yeah, the interface specification what people how they interact with it. Basically, I think so the method we looked at existing designs. One of the what's good about them. What's bad about them looked at their flaws. We're going to look at the floors everything and what the survey told us and what we think would be good. So bit of imagination the findings, I've got some pictures.",
+          "speaker": 3,
+          "start_time": "412s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "448.800s",
+          "sentence": " The rocket",
+          "speaker": 1,
+          "start_time": "448.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "492.900s",
+          "sentence": " yeah. Okay. So most remote controls these graphical interface where you have got buttons and you point it rather than having the output as a stream of text or something and also found that there's inconsistent layout which makes it confusing. So I think the remote control there is some inconsistency already an existing in between remote controls, but I think the standard kind of shape and I play and those kind of fun buttons like the the top right for on and off or something. I think you'll find that important because and it's easy to use and we've got some pictures of some new remote controls to show you die. Press escape a",
+          "speaker": 3,
+          "start_time": "449.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "499.900s",
+          "sentence": " 5 which is just Escape Escape. Okay, so glad",
+          "speaker": 1,
+          "start_time": "492.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "529.800s",
+          "sentence": " yeah. Okay. So these are the some of the pictures of existing ones To them this son is voice recognition. And that's the kind of idea we're going for there's an LCD thing which we thought could I thought I could get a bit confusing and a bit expensive as well for us. This one is got a kind of scroll like a",
+          "speaker": 3,
+          "start_time": "501.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "532.400s",
+          "sentence": " mouse which middle button.",
+          "speaker": 1,
+          "start_time": "529.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "539.700s",
+          "sentence": " Yeah, and but I'm not exactly sure how you'd use that like with the excuse",
+          "speaker": 3,
+          "start_time": "532.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "549.800s",
+          "sentence": " of the right one. Same thing on the front of them 1ru scroller. And then when you reach the sort of menu item that you require you",
+          "speaker": 1,
+          "start_time": "542.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "596.500s",
+          "sentence": " press that's like the LCD one is it but the one below that is got like a little scroll function on the side, but I presume that the functions must come up on the TV screen. Yeah, I think that's what that is. So these are just a few ideas getting that. It's just quite boring shape gray looks quite space AG but too many buttons, I think and that was the right thing looks like something. Yeah, it does look kind of of dangerous this one. I thought was really cool. It's got the programmability function that we talked about. You can put it in there. It's for kids and it's quite an organic shape and the little circle around there's pretty cool and that's really easy to use bright. So I like this one a lot for our design. I think something like that would be good because I",
+          "speaker": 3,
+          "start_time": "549.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "608.600s",
+          "sentence": " think about it, but these ones is secured areas. I've seen a lot of them with the cover missing, right? Yeah.",
+          "speaker": 1,
+          "start_time": "596.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "661.900s",
+          "sentence": " Yeah, that's true. Yeah, so maybe that could be built into one things and it comes up on the TV or something. And this one the oversized one. I don't know about you but I think it's a bit too gimmicky. I don't think that will work I guess so, I don't know. I think that's a bit. Find don't watch TV. And this one is just pointing out. I like some of these things the the raised symbols everything but it's pointing out that this one the volume it was kind of pressing down but it would actually go up because of the shape so that could that's a bit confusing but the buttons on this I think it's just showing you how you",
+          "speaker": 3,
+          "start_time": "610.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "676.300s",
+          "sentence": " can have different. Different buttons, I don't feel the same. So that's quite cool people tend to recognize certain shapes to do certain things. And yeah exactly if I",
+          "speaker": 1,
+          "start_time": "661.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "707.600s",
+          "sentence": " so there is some of the findings so we need to combine those ones and I've just got an email from our technical department saying that they have broken through with some new speech recognition software that you can program in. Yeah. It is just in time very handy. So I think maybe incorporating that in our design would be good as you program it like you say record and then play",
+          "speaker": 3,
+          "start_time": "678s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "709.100s",
+          "sentence": " And then record",
+          "speaker": 1,
+          "start_time": "707.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "713.200s",
+          "sentence": " playing machine and stuff like that. So that's and it's much.",
+          "speaker": 3,
+          "start_time": "709.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "715.900s",
+          "sentence": " Yeah, so that's quite cool",
+          "speaker": 1,
+          "start_time": "713.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "729.400s",
+          "sentence": " personal preference is just so imagination the race symbols. I thought good the LCD. It does look smart, but I think maybe for our budget do you think that would be a bit too expensive to have the",
+          "speaker": 3,
+          "start_time": "716.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "733.600s",
+          "sentence": " The LCD. Yeah, and the other stuff",
+          "speaker": 1,
+          "start_time": "731.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "775s",
+          "sentence": " and the speech recognition. So I think we're definitely going for the speech recognition Alberton oval Market survey. We have seen that people are willing to pay more but they want the quality. They want to fancy look the word some new design something new. Yeah. Yeah. Yeah. So even if we increase our course little bit within some limits and we give something new technology called Advanced wear it as well as new design with fancy. I think we will meet the requirements and we will be able to have a good sales in the market. I'm not sure if the 25-year rows 12 euros 50 manufacturing cost us anything that",
+          "speaker": 3,
+          "start_time": "734.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "797.300s",
+          "sentence": " might cancer although. I mean the lc3 sure they have got I mean they are going crazy with LCD technology night so that you've got your LCD TVs and everything. So maybe the small one like I have the black and white. I guess it just doesn't look funky and but I mean like even mobile phones or whatever. I have not have color LCD screens.",
+          "speaker": 1,
+          "start_time": "775s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "798.400s",
+          "sentence": " Yeah, I",
+          "speaker": 3,
+          "start_time": "797.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "799.800s",
+          "sentence": " mean I would know about the cost of",
+          "speaker": 1,
+          "start_time": "798.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "819.300s",
+          "sentence": " But I was standing is it too complicated? Is it going to be too much just overload? Yeah, that's the thing because it will be easy because there will be on healthy eating serious cream there will be different different icons. They can just click. Okay, whatever they want when use remote control. You never look",
+          "speaker": 3,
+          "start_time": "801.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "820.400s",
+          "sentence": " at it, right? Yeah",
+          "speaker": 1,
+          "start_time": "819.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "821.600s",
+          "sentence": " you're looking at yeah,",
+          "speaker": 3,
+          "start_time": "820.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "825.300s",
+          "sentence": " it's just seems kind of like a",
+          "speaker": 1,
+          "start_time": "823.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "843.600s",
+          "sentence": " and one of the survey findings was that they weren't too easy to use. So I think I'm not sure about the CD it's great. It's a good idea. But for our budget and for the thing, we're trying to go for easy easy to use. It's not the thing we should go for I think child-friendly. I thought this was good as you pointed out there",
+          "speaker": 3,
+          "start_time": "825.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "846.100s",
+          "sentence": " the bit",
+          "speaker": 1,
+          "start_time": "845.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "884.700s",
+          "sentence": " it often goes missing, especially with children, but it's a good shape and the organic is kind of we could make a vegetable you kind of round shape. I think so would you The different shapes of the buttons and stuff. I think that's a good idea. I thought it was a good idea because people use my mouse is now with this scrolling thing",
+          "speaker": 3,
+          "start_time": "846.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "894.200s",
+          "sentence": " and we are marking to sort of Yeah. We'll have come in contact left. Yeah, you're",
+          "speaker": 1,
+          "start_time": "885.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "900.900s",
+          "sentence": " so they'd be able to use that. As I said, I think it would presume would come up on the screen. Yeah, so there you",
+          "speaker": 3,
+          "start_time": "894.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "905.100s",
+          "sentence": " go to bump that up to the TV makers. Yeah,",
+          "speaker": 1,
+          "start_time": "900.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "909.200s",
+          "sentence": " so that's the user",
+          "speaker": 3,
+          "start_time": "907s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1100.900s",
+          "sentence": " interface. It's like Okay, take this out now. I guess there are a lot of options are going to have to choose from among. Yeah, and I like it. I'll give you the I guess technical considerations for those. I don't use a whiteboard just because we haven't used it. Yeah, I was just thinking the same thing, right? So the wagon do this is we're going to take a look at some old remote controls see how they work reuse the final kind of essential pieces of it and then we'll throw in our new Innovations. Keep it all in budget. So magic man looking inside a very simple remote control. This is what they sent me. Okay, here's the competition. I suppose you open it up. There's a circuit board inside. And there's a chip processor at the TA one 1835 which receives input from the buttons. This is a standard off-the-shelf kind of a chip. Is it right? It's very very cheap amount. This is the amount of cost nothing. Yeah. So that takes a signals from the buttons and translates it into a sequence of pulses that it then sends to the the amplifier which is made of some transistors and amplifiers op amps. Then that gets sent to the LED light which I can kind of see that little red light bulb the end and that sends out the infrared light signal to the television perilous. So this is kind of the Bare Essentials that we need to have in a remote control. It defines. So can we make them to pretty much any size we like her is there a minimum or not? I mean, this is a very old one. So now with the new technology this is I'm going to be a minimum really small and keep almost a keyring, right? So this is what we need to have for certain. So he has to say we got the outer casing but you have to decide you know, what's going to be the board we have to use basically the same setup processor will probably use a more advanced processor with my had amplifying transmitter all standard. So for the casing this email I got from our manufacturing team, you know, we have a bunch of options from would tie. Titanium rubber plastic but not latex double curve curve. So lots of choices. What do you think was a bunch? I guess. Is it on their own?",
+          "speaker": 1,
+          "start_time": "909.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1102.300s",
+          "sentence": " Well, I mean like",
+          "speaker": 3,
+          "start_time": "1101.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1125.900s",
+          "sentence": " latex is a kind of spongy feel too. Doesn't it? Very last two key for sure. Yeah, and that would also give it kind of durability. And yeah, and it's also relatively cheap to cast so some advice. Sort of plastic initial plastic with a latex condom sheath. Okay. So here a plastic.",
+          "speaker": 1,
+          "start_time": "1102.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1134.300s",
+          "sentence": " Latex, I like the rubber the stress balls. I think you know that could be a bit of a gimmick like it's",
+          "speaker": 3,
+          "start_time": "1127.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1139.200s",
+          "sentence": " good to hold and so something would give to it. Yeah,",
+          "speaker": 1,
+          "start_time": "1135.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1142.900s",
+          "sentence": " and that might be quite durable and easy to Chuck around",
+          "speaker": 3,
+          "start_time": "1140.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1145.800s",
+          "sentence": " colors yellow, right? Yeah, or at least Grand",
+          "speaker": 1,
+          "start_time": "1142.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1147.200s",
+          "sentence": " Prix yellow Incorporated.",
+          "speaker": 3,
+          "start_time": "1145.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1159.400s",
+          "sentence": " Yeah. Let me know if we're going with sort of I don't know other I think silver kind of. other parts are",
+          "speaker": 1,
+          "start_time": "1147.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1171.800s",
+          "sentence": " yeah the buttons like because there's going to be the cover the rubber or the plastic casing and then the buttons probably two different colors or if we're having buttons actually",
+          "speaker": 3,
+          "start_time": "1160.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1182.400s",
+          "sentence": " so yellow body and then what color for the buttons I quite like the multi colored buttons beside ya so multicolored",
+          "speaker": 1,
+          "start_time": "1172.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1190.700s",
+          "sentence": " but you do have ones like playing could be green or on and off is red and stuff like that. Yeah. Yeah limit makes it easy to",
+          "speaker": 3,
+          "start_time": "1182.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1190.900s",
+          "sentence": " use.",
+          "speaker": 1,
+          "start_time": "1190.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1196.600s",
+          "sentence": " Yeah, that's true because that blue one did look",
+          "speaker": 3,
+          "start_time": "1193.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1218.200s",
+          "sentence": " although also comes to shape as well. I mean if we are going to make it a novel I mean double curved sounds good to me. If we're talking about it, so how can I make an easy to use? Yeah, I become fear. You know. Yeah. Okay. So the shape we want to go how exactly maybe",
+          "speaker": 1,
+          "start_time": "1198.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1234.400s",
+          "sentence": " like an hourglass kind of figures that were you thinking of or just like it might be that's comfortable to hold easy to hold. So you just draw it could make novelty remote controls.",
+          "speaker": 3,
+          "start_time": "1219.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1241.500s",
+          "sentence": " Well, yeah, I mean like we could have it. Banana shaped remote control because it's yellow. Yeah. Yeah",
+          "speaker": 1,
+          "start_time": "1234.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1245.300s",
+          "sentence": " and a Layman might be and then how would you print it? Yeah,",
+          "speaker": 3,
+          "start_time": "1241.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1252.900s",
+          "sentence": " how would you point it? What it doesn't matter which any planning is you could have a little LEDs on each end when we come here.",
+          "speaker": 1,
+          "start_time": "1246.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1274.600s",
+          "sentence": " Yeah, I appreciate this idea because then this this will help us in our advertisement also and we can relate it with fruits and vegetables The People's Choice. Is that whatever data shows that? So this idea is spongy rubber band.",
+          "speaker": 3,
+          "start_time": "1253.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1281.900s",
+          "sentence": " Okay does seem a bit again childish would be",
+          "speaker": 1,
+          "start_time": "1278.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1315.300s",
+          "sentence": " yeah, I think maybe just drawn the kind of fruit and vegetables shape. And what else did you say about fashion? So it was the fashion trend shows that fruits and vegetables like people now yeah could be soon like what? What's that? I don't even know the name of it some kind of you know, it's like lik like a little snowman kind of thing. I don't know the name of",
+          "speaker": 3,
+          "start_time": "1282s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1315.700s",
+          "sentence": " that.",
+          "speaker": 1,
+          "start_time": "1315.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1318.800s",
+          "sentence": " Yeah, that's what I was thinking",
+          "speaker": 3,
+          "start_time": "1317.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1319.400s",
+          "sentence": " record",
+          "speaker": 1,
+          "start_time": "1318.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1325.600s",
+          "sentence": " because that you can hold it in like bottom bit",
+          "speaker": 3,
+          "start_time": "1320.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1332.600s",
+          "sentence": " and and it has a clear top and bottom. Yeah say, you know transmitting this end. Why the hell not",
+          "speaker": 1,
+          "start_time": "1325.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1336.100s",
+          "sentence": " I don't know. It's what do you guys what do you think?",
+          "speaker": 3,
+          "start_time": "1333.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1346.200s",
+          "sentence": " Well, I guess it's kind of you don't necessarily have to have it sort of clearly identified as a fruit have that kind of fruity shape?",
+          "speaker": 1,
+          "start_time": "1338.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1353.100s",
+          "sentence": " Yeah. Yeah, then only we can relate it to something to buy advertising. Yeah, exactly.",
+          "speaker": 3,
+          "start_time": "1346.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1356.300s",
+          "sentence": " So double curved single curve",
+          "speaker": 1,
+          "start_time": "1353.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1364.200s",
+          "sentence": " or we can do something we can design to three shapes and we can have a public survey let the public choose what they",
+          "speaker": 3,
+          "start_time": "1357.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1369.300s",
+          "sentence": " want. I guess since you're the marketing",
+          "speaker": 1,
+          "start_time": "1364.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1377.500s",
+          "sentence": " guy. Yeah. Sure. I will be happy to do that unfastens. What did we say",
+          "speaker": 3,
+          "start_time": "1369.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1397.500s",
+          "sentence": " different shapes of buttons for the specific functions, you know up and down placed up. They've got I mean, you've got standard sort of intuitive things that are always used. But",
+          "speaker": 1,
+          "start_time": "1378.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1400.500s",
+          "sentence": " yeah,",
+          "speaker": 3,
+          "start_time": "1400.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1426s",
+          "sentence": " let's go with a scroll wheel or no? Yeah, what about the scroll wheel and speech recognition speech recognition to think so, we need a microphone presumably put the microphone and there's Mike. Yeah. I wish I mean are we sure that scroll wheel does give ease of use?",
+          "speaker": 1,
+          "start_time": "1400.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1437.700s",
+          "sentence": " Yeah. Not sure. I mean those ideas I saw her just for inspiration. I think yeah I can so I",
+          "speaker": 3,
+          "start_time": "1426.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1466.900s",
+          "sentence": " couldn't do some user tests with scroll. Yeah. Yeah. And I think if this this new software for the same recognition is that you can ya keep in the microphone. So she's microphone be just anywhere on it. I would put its substantially so it's yeah. Yeah, so it can be sort of held and we really need really going to need to hold it if it's going to be voice recognition that what we can.",
+          "speaker": 1,
+          "start_time": "1437.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1500.800s",
+          "sentence": " So let's not use the Whiteboard anymore. And so what else was that the what about the glow-in-the-dark thing this trip around it. We just got that I still like",
+          "speaker": 3,
+          "start_time": "1476.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1501.100s",
+          "sentence": " it.",
+          "speaker": 1,
+          "start_time": "1500.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1508.100s",
+          "sentence": " But that's me because we've got the technological innovation with the speech",
+          "speaker": 3,
+          "start_time": "1503.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1512.800s",
+          "sentence": " recognition. Yes, and maybe it's just going a bit too far. I mean we are pushing it",
+          "speaker": 1,
+          "start_time": "1508.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1514.600s",
+          "sentence": " probably because it is cheap.",
+          "speaker": 3,
+          "start_time": "1512.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1517.600s",
+          "sentence": " Yeah don't want to sort of",
+          "speaker": 1,
+          "start_time": "1514.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1519s",
+          "sentence": " especially with yellow",
+          "speaker": 3,
+          "start_time": "1517.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1531.300s",
+          "sentence": " but today because I mean like I mean, how good is the speech recognition thinking we want to go four buttons at all. Then we want to just have a device that maybe sits and pretend it's of Reuben.",
+          "speaker": 1,
+          "start_time": "1520.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1534.200s",
+          "sentence": " The put in the fruit bowl.",
+          "speaker": 3,
+          "start_time": "1533s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1565.600s",
+          "sentence": " Yeah, you know and then they just took from I mean, you liked everybody's got fruit bowl in front of the Telly it can even encourage healthier habits for television Watchers. Yeah, make them. Sorry make them think of fruit. Yes, make sure they don't eat the remote. I mean you're doing some like think of a fruit that could sex with independently on its own like an apple. It's just apples. So yellow apples of",
+          "speaker": 1,
+          "start_time": "1534.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1573.800s",
+          "sentence": " I quite like that because that could sit on its own and yeah, it's quite quite quite sturdy",
+          "speaker": 3,
+          "start_time": "1565.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1574.500s",
+          "sentence": " base.",
+          "speaker": 1,
+          "start_time": "1573.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1580.700s",
+          "sentence": " And as we say we don't want to be too ridiculous with the fruit things.",
+          "speaker": 3,
+          "start_time": "1576.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1589s",
+          "sentence": " Yes about the speech thing. It doesn't have to be handheld or close. They can set a distance. So I mean like you could actually",
+          "speaker": 1,
+          "start_time": "1582.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1688.100s",
+          "sentence": " Yeah, or we can we can do one thing. We can just have a remote control and casings of different different shapes different fruit shapes in such a way that any casing can be could be fit into this mobile General peace. So whatever people want like if somebody want it in banana shape, we will put that casing onto that mobile phones. Okay, it will look and here in that way. Sorry, you said about disposable early people want disposable things. So like if this is a like if this is a mobile phone, we will Design casing in such a way like half of we need not to have a full cover. We will just have a half of cover. Okay, like if somebody wants it in banana shape, we will fit banana-shaped casing onto that. So it will give a banana shape. Look if somebody want it in apple shape, we will design that you will put we will put apple shape casing on that it will give Give apple shape look so in that way you can have any means whatever you want. Okay without yeah the buttons in the same place. Your button will be on the upper side buttons will be the on the upper side buttons will be on the upper Side Lower Side. We will just put the casing so half of that will be located. Yeah, note note the upper side. So from lower you can means while you are holding up from this side. You can you can have been analog or apple look whatever so in that way. Need not to do have different different shape mobiles everything. We will just design casings fruit shape and I think if you're gonna have a",
+          "speaker": 3,
+          "start_time": "1591.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1705s",
+          "sentence": " fashion show, then you want to have it so that it does go for the buttons because I mean if you think about it if they're wanting it because they want to Wicca if they're using it and what they want to look at is facing away from them. It doesn't really You know because I'd be in the palm of the hand would be able",
+          "speaker": 1,
+          "start_time": "1688.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1706.600s",
+          "sentence": " to see ya unless you have",
+          "speaker": 3,
+          "start_time": "1705s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1744s",
+          "sentence": " serve you got the buttons option on one side. You get the Fashion on the other side with microphone so you can place it face down and you've got the faccia and you can just talk at the maybe so so you've narrowed it down to half a dozen options. I guess we decide. Material right so that spongy latex rubber. Yeah, everything and the colors we got down. Yeah shape. Maybe we'll just make it kind of mix and match type of shape or",
+          "speaker": 1,
+          "start_time": "1706.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1786.700s",
+          "sentence": " well because well, I'm not sure if we should go so far in the whole fruit thing because I think we should maybe just take the inspiration from the fruit. And because I stick with what we've got the wood. Yeah. I think we're we're trying to get 25 35 year olds want it quite trendy as well. They said they wanted. Something that looks fancy and I think maybe fruit could be a bit of it too much of a gimmick but something ergonomically shaped and organic like good to hold based on fruits natural things like that. Okay, because already we're going a bit gaudy with the yellow, you know, I mean we could make it nice pale yellow. Well, it's kind of got to be our companies. Okay.",
+          "speaker": 3,
+          "start_time": "1744.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1792.900s",
+          "sentence": " So again, I mean like we could have I mean we could quite easily have the In body be a",
+          "speaker": 1,
+          "start_time": "1788.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1800.300s",
+          "sentence": " different. Yeah, maybe we could have that pale yellow and then an outside bit bright yellow with you said the Logan the slogan.",
+          "speaker": 3,
+          "start_time": "1792.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1844.100s",
+          "sentence": " Because I mean even if they're not necessarily that the whole body has to be of the company color. So yeah, you know blue and yellow tend to go to work well together. So you have main body blue with the yellow logo and slogan running on one side of it. Uh-huh as for the energy source, you know, almost every remote control uses just batteries, but we don't have to Limited by that we can use a hand Dynamo. It's I think it's basically the more you move it. It's got we thing inside that just kind of powers is watches that",
+          "speaker": 1,
+          "start_time": "1802.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1871.900s",
+          "sentence": " yeah. Yeah, I like it. Yeah. Yeah, like what those watches that you can twist? Yeah, but yeah, but do you think that it will be a good idea to use the Dynamo that these type of cells because then people have to like if the cell is out vegetation to we are two special if they want to use it. Yeah",
+          "speaker": 3,
+          "start_time": "1844.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1874.700s",
+          "sentence": " specifically as voice activated.",
+          "speaker": 1,
+          "start_time": "1872.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1906.600s",
+          "sentence": " Yeah, because most of the people The days when there is no solar sunlight, but we are not facing houses. I think we should rechargeable battery will be a good idea. They can they can recharge it",
+          "speaker": 3,
+          "start_time": "1874.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1913.500s",
+          "sentence": " just on the basis of like reading the love berries and that kind of",
+          "speaker": 1,
+          "start_time": "1910s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1916.100s",
+          "sentence": " ball and we're very environmentally friendly company",
+          "speaker": 3,
+          "start_time": "1913.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1927.400s",
+          "sentence": " rechargeable stand so that not only the yes, but for using it as a recharging it but also for using it yes and recognition",
+          "speaker": 1,
+          "start_time": "1916.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1932.900s",
+          "sentence": " like like a hunt like one of those portable phones. Yeah. Yeah. That's yeah exactly.",
+          "speaker": 3,
+          "start_time": "1927.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1981.500s",
+          "sentence": " So a rechargeable battery. Yeah, the user interface the buttons. I guess we talked about this right here. Pretty much chip on print once sorry. Never mind. Yeah, the electronics basically the more features we had. So the more features we add the fancier chips, we need to buy and put in adds to the cost and you can expect but I think we can keep it all under budget. So yeah, so the speech thing you said are our technology our research and development department came up with some breakthrough. Mmm. So",
+          "speaker": 1,
+          "start_time": "1933.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1983.800s",
+          "sentence": " we're just having buttons and",
+          "speaker": 3,
+          "start_time": "1982.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2026.400s",
+          "sentence": " the speech then we're getting our cheapest option of That's good. Okay, what kind of have just deleted but whole thing we're kind of running out of time. So if you could Was that you that was your bits covered up? Just yeah, that's just accidentally deleted what I was supposed to say next. Excuse me. Yeah. So yeah. Sure. Yeah, mine seems to have turned off I could just ditch the",
+          "speaker": 1,
+          "start_time": "1983.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2028s",
+          "sentence": " who just touched the bed",
+          "speaker": 3,
+          "start_time": "2026.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2030.800s",
+          "sentence": " actually showed that",
+          "speaker": 1,
+          "start_time": "2028s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2032.100s",
+          "sentence": " it's on but there's",
+          "speaker": 3,
+          "start_time": "2030.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2035.300s",
+          "sentence": " nothing okay. Now what",
+          "speaker": 1,
+          "start_time": "2032.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2037.400s",
+          "sentence": " we have our next meetings in",
+          "speaker": 3,
+          "start_time": "2035.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2049.900s",
+          "sentence": " half an hour. And what I would like you guys to do is work on giving me a model in clay. Oh,",
+          "speaker": 1,
+          "start_time": "2037.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2054s",
+          "sentence": " yeah, cool. So,",
+          "speaker": 3,
+          "start_time": "2051.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2063.200s",
+          "sentence": " you know, I mean luckily we chose a nice simple shape and further instructions will be sent by your personal coaches.",
+          "speaker": 1,
+          "start_time": "2055.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2064.900s",
+          "sentence": " Okay, that's great to",
+          "speaker": 3,
+          "start_time": "2063.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2067.200s",
+          "sentence": " save everything to the shared documents. So",
+          "speaker": 1,
+          "start_time": "2064.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2068.400s",
+          "sentence": " yeah, I hope",
+          "speaker": 3,
+          "start_time": "2067.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2076.100s",
+          "sentence": " I can recover this because if accidentally deleted it, which doesn't really help you much. I think I've saved mine already.",
+          "speaker": 1,
+          "start_time": "2068.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2078.300s",
+          "sentence": " Yeah, can you save",
+          "speaker": 3,
+          "start_time": "2077.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2083s",
+          "sentence": " that Ascend that last one again, please ride just I still can't find it on there.",
+          "speaker": 1,
+          "start_time": "2078.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2087.300s",
+          "sentence": " It was under different name. I will show you and share documents.",
+          "speaker": 3,
+          "start_time": "2083.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2093.100s",
+          "sentence": " Okay, but key components better so far.",
+          "speaker": 1,
+          "start_time": "2087.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2099.300s",
+          "sentence": " You didn't get that. Nah, I will send this. Okay. Okay. I will put it in share documents",
+          "speaker": 3,
+          "start_time": "2093.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2102.400s",
+          "sentence": " again. Yeah project",
+          "speaker": 1,
+          "start_time": "2099.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2108.200s",
+          "sentence": " project or project awkward. Sorry. I put it in the shared documents. All right, that's that goes there",
+          "speaker": 3,
+          "start_time": "2102.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2114.900s",
+          "sentence": " automatically if you put in Project documents project documents is on the Desktop right? There's",
+          "speaker": 1,
+          "start_time": "2108.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2119.800s",
+          "sentence": " what I call can't open that because it asks for some username or",
+          "speaker": 3,
+          "start_time": "2115.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2136.900s",
+          "sentence": " password. I'll show you. All right, I think hold on sweetie.",
+          "speaker": 1,
+          "start_time": "2119.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2143.300s",
+          "sentence": " Yeah, I don't know if you just can't just came up on my",
+          "speaker": 3,
+          "start_time": "2140.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2174.700s",
+          "sentence": " My agenda presumably this clay somewhere. Yep, that's good. Whoops light light please light. Right. There you go. Thank you. Yeah quite were using the sort of basic chipset. So so cute.",
+          "speaker": 1,
+          "start_time": "2145.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2183.900s",
+          "sentence": " I think you have to keep your pen separate because I used your pain. Oops.",
+          "speaker": 3,
+          "start_time": "2178.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2229.700s",
+          "sentence": " Okay still didn't manage to get then all the last bit so and rechargeable and Case we came up with okay, what supplements? cool Fun she got some I knew that I should have engineered it. So quick ended up making a different difficult",
+          "speaker": 1,
+          "start_time": "2186.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2235.700s",
+          "sentence": " shape for cruelty. Yeah starfrit",
+          "speaker": 3,
+          "start_time": "2229.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2241.200s",
+          "sentence": " like literally make it sort of turns and everything.",
+          "speaker": 1,
+          "start_time": "2238.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2247.800s",
+          "sentence": " No, I believe we are going to discuss something.",
+          "speaker": 3,
+          "start_time": "2243.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "2289.800s",
+          "sentence": " No, I think that's a discussion over unless anybody's got questions confusions cuz I'm confused. This gives my project questionnaire in a minute. It's Sorry, thank you. Yeah. Morning finish meeting ended up fucking fast. documents",
+          "speaker": 1,
+          "start_time": "2249s"
+        }
+      ],
+      "transcript_azure": [],
+      "transcript_stream": [],
+      "url_files": ""
+    },
+    {
+      "date": "2020-11-12",
+      "id": 5,
+      "language": "fr-FR",
+      "op_id": "4935333082526436414",
+      "participants": [1, 2, 3],
+      "progressPercent": 100,
+      "status": "SUCCESS",
+      "subjects": ["Fr meeting", "wav (from mp4) double audio chan"],
+      "title": "Fr meeting Sam review",
+      "transcript": [
+        {
+          "confidence": 0,
+          "end_time": "5.600s",
+          "sentence": " Démarre l enregistrement ça doit être un petit message comme quoi",
+          "speaker": 2,
+          "start_time": "0s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "26s",
+          "sentence": " on peut imaginer qu'on a je sais pas combien de temps ça prend de récupérer mais je pensais peut-être un peu long mais mais est-ce que tu pourras quand même déjà rendre accessible du coup, j'ai très envie fraîche de cette page là pour le même si c'est encore tout les tout le tout le tout ça je sais pas",
+          "speaker": 1,
+          "start_time": "5.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "28s",
+          "sentence": " c'est pas grave.",
+          "speaker": 2,
+          "start_time": "26s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "30s",
+          "sentence": " En plus,",
+          "speaker": 1,
+          "start_time": "28s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "30.900s",
+          "sentence": " c'est",
+          "speaker": 2,
+          "start_time": "30s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "108.600s",
+          "sentence": " Alexandre qui me disait que j'ai un problème parce que si je rajoute une réunion up, je pars tout de suite. En fait, je me page si je veux refaire que la Roquette surface voir que vous habitez mais comme normalement la même si ça prend 2 secondes en une réunion, c'est un peu long à process pour qu'elle soit disponible, je sais pas si c'est parti dans 2. évoquer le soir quand on avait discuté de Éric ce machin qui a été remplacé par je sais plus comment ça s'appelle et en général pour un refresh de toi c'est ça c'est ça donc c'est juste ça mon avis que tu as pas mis en place voilà c'est où on veut des applications on a rien à faire tu sais si tu es disponible si même si tu veux parce que normalement la réponse tu l'auras Viala pays la réponse c'est à ce moment-là qu'il faut que tu déclenches Lievens pour que ça rafraîchit pas cher avoir une réponse pour le plot de la réunion le pneu de la Réunion ça veut pas dire qu'elle est disponible à être ici",
+          "speaker": 1,
+          "start_time": "30.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "121.200s",
+          "sentence": " est-ce que tu as un truc un peu asynchrone Claude comme ça mais est-ce que",
+          "speaker": 2,
+          "start_time": "108.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "161.800s",
+          "sentence": " ça se fait en fait c'est prévu react est prévu pour ça quand tu as un truc as un cône pour aller déclencher un événement et est dans ta page quand il y a les événements qui arrive et ben il rafraîchit les données c'est prévu ça le retour pour l'instant, j'essaie tu as bien réussi à la Réunion est disponible pour exploiter du moment où il y a un petit truc un petit slip qui va checker que faire des requêtes sur 100 en fait",
+          "speaker": 1,
+          "start_time": "121.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "163.600s",
+          "sentence": " après",
+          "speaker": 2,
+          "start_time": "161.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "202s",
+          "sentence": " il y a pas besoin que tu dois avoir un truc des événements à ton place dans ta page pour vérifier quand quand est-ce que quand est-ce que la liste des réunions et mise à jour elle est pas mise à jour parce que moi qui l'a mis à jour, je fais une requête en fait Tu as une variable qui devient jour après jour. Oui mais elle le sera pas justement si je fais pas une nouvelle Roquette à la PAC obligé de faire une deuxième requête pour récupérer des pêches pour l'instant parce que je dois refaire la requête de base pour poster une lettre pour récupérer c'est ça le truc pour l'instant. Oui",
+          "speaker": 1,
+          "start_time": "163.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "203.600s",
+          "sentence": " parce que",
+          "speaker": 2,
+          "start_time": "202s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "223s",
+          "sentence": " j'aurai la réponse sans que avant que la Réunion c'est vraiment disponible. En fait, tu es comme comment tu sais du coup si c'est prêt, je sais pas je sais pas combien de temps ça prend pense que je voudrais juste de temps en temps, je sais pas ce que",
+          "speaker": 1,
+          "start_time": "203.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "253.700s",
+          "sentence": " j'ai sur la question du coup parce que du côté de CP sur les opérations la sont connes mais effectivement quand tu leur envoies un truc à transpire et potentiellement long et ben, il peut prendre du temps est prêt et en fait du coup ce que tu déclenches qui s'appelle une longue running opération. Et du coup, il te renvoie un truc à ou quoi, elle est en cours et avec dans le petit il y a terminé Falls et en fait quand quand ça passe à trou de balle, c'est là c'est bon du coup je suis hors faire la quête et attendre que il y a marqué deux fois,",
+          "speaker": 2,
+          "start_time": "223s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "255.700s",
+          "sentence": " c'est à toi d'aller voir de temps en temps, c'est",
+          "speaker": 1,
+          "start_time": "253.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "255.900s",
+          "sentence": " ça",
+          "speaker": 2,
+          "start_time": "255.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "296.200s",
+          "sentence": " qui sont prêtes. Je pense je vais voir s'il y a des choses qui le font original react et vite sur le truc là et tu aimes qui proposez callback. C'est toi, tu envoies une requête en API et tu passes une requête callback et en fait quand la requête côté à pied finie et ben il déclenche le col. Bah ouais, on va faire on fait déjà en fait, c'est juste que je laisse pas parce que ouais mais je sais pas si j'ai bien compris,",
+          "speaker": 1,
+          "start_time": "255.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "326.700s",
+          "sentence": " il y a pas de parce que il y a deux PC du coup j'ai l'impression que c'est un problème on fait comme ça que tu dois redemander alors en fait genre que j'ai appris il y a pas très longtemps du coup des fois je mélange un peu mais il me semble que justement c'est pareil complet de d'avoir le serveur contacter le client directement que ça c'est que si tu utilises en mode auto cal et on reste tu peux pas faire ça",
+          "speaker": 2,
+          "start_time": "296.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "375.600s",
+          "sentence": " après on est dans un dans un coquin c'est pas très souvent en fait on évite de faire des d'avoir des retours qui prennent du temps à venir parce que entre entre les deux s'il y avoir un changement de pas je vous dis n'importe quoi et puis avoir des composants qu'il va être mis à jour avec alors qu'ils sont plus mon thé et du coup ça fait ça fait ça fait plein de pleins d'erreurs ça fait des bugs en fait dans dans l'application qu'on évite tout c'est très rapide juste que on a bien réussi à pleut de fichier c'est fini J'étais à la pite la formation, c'est comme ça comme ça que c'est construire une impression, on a quasiment tous tous les tous les pays de fête du pays de skate et son du mal avec les les tâches qui sont pas fini en fait",
+          "speaker": 1,
+          "start_time": "326.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "397.500s",
+          "sentence": " pour monter à la meilleure stratégie pour ça aussi que ce soit avec vous donc on va pas se",
+          "speaker": 2,
+          "start_time": "375.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "437s",
+          "sentence": " prendre la tête parce que on est dans un pote donc une requête de temps en temps pour aller voir si c'en est le résultat dans un premier temps, ça fait 6 ans, il faut voir comment faire pour avoir un truc. Au plus efficient les idées, c'est juste des user ai dit c'est le seul que que l'autre",
+          "speaker": 1,
+          "start_time": "397.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "483.200s",
+          "sentence": " j'ai pas réfléchi à comment on allait nommer les participants. Du coup, j'ai juste utiliser line parce que ça a l'avantage d'être dans le futur. Il faudrait trouver je sais pas. C'est pas d'accès à la lumière à",
+          "speaker": 2,
+          "start_time": "437s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "589.400s",
+          "sentence": " on peut on peut aller attaquer en fait, on peut attaquer des annuaires de Natixis la seule chose, c'est qu'on Dave on a un annuaire qu'un peu pauvre pas. Ouais, c'est des choses qu'on a déjà fait mais après il faut pour créer un compte technique sur le zappe sur est et puis le problème, c'est qu'on Dave il y a pas grand-chose quoi. Donc est-ce que pour l'instant ça vaut vraiment le coup. Faire passer avec le LDAP Athéna et c'est pas parce qu'on se voit la sur le front sur une formation react mec-là, il a des rebelles en parle après mais je pense arriver un petit peu sur les bords de ce qui est fait le cœur la formation et du coup peut-être commencer à avancer plus sur le développement de l'application et moi des informations mon",
+          "speaker": 1,
+          "start_time": "483.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "589.600s",
+          "sentence": " côté",
+          "speaker": 2,
+          "start_time": "589.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "601.700s",
+          "sentence": " et du coup c'est un peu ce que les. Comment faire des bacs à",
+          "speaker": 1,
+          "start_time": "589.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "614.800s",
+          "sentence": " la place ça sera",
+          "speaker": 2,
+          "start_time": "601.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "619.200s",
+          "sentence": " l'adresse",
+          "speaker": 1,
+          "start_time": "614.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "719.500s",
+          "sentence": " mais tu dois avoir un lien pour montrer un peu ce qu'il y a au niveau du bac mais en gros au niveau du pas quoi et voilà du coup c'est sûr cela Chapélies et ensuite il y a les routes et les routes slash meeting avec la récupérer en particulier à particulier pardon et pareil avec du meeting derrière meeting sur ce qui est un peu download et du coup. Agent si tu fais ça, je récupère du coup voilà, ça a téléchargé entier de ton ordinateur sur ton ordinateur est le dieu de la réunion qui va pouvoir mettre sur le player après d'accord et du coup la route pour poster les meetings. Donc là c'est encore moi, je regarde parce qu'il existe du coup ça te met un truc tu vas voir un user qui n'existe pas. J'ai pas j'ai pas fait une gestion hyper précise des erreurs sur les routes qui existait pas. J'ai pas fait de gestion des erreurs sur les routes qui existait pas. J'ai fait une gestion des erreurs sur si on fait des mauvaises requêtes sur les routes qui existent.",
+          "speaker": 2,
+          "start_time": "619.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "722.500s",
+          "sentence": " Est-ce qu'il est cool parce que du coup on a pu passer hier",
+          "speaker": 1,
+          "start_time": "719.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "768.100s",
+          "sentence": " mais sinon ouais j'en avais déjà parlé pendant la prière mais bon voilà la petite c'est juste que j'ai rajouté dans un meeting bizarre ou quoi et ben ça envoie pas parce que du coup on peut on peut avoir les infos comme ça le front tu as pas besoin de savoir comment est construit la paix. En fait, c'est que il peut découvrir la juste de requête Henri IV. En fait, tu as besoin d'avoir sur la construction de l'abbaye et du coup ça permet que si on modifier la construction de l'abbaye pour ça impacte pas trop le temps que",
+          "speaker": 2,
+          "start_time": "722.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "780.800s",
+          "sentence": " tu renvoies si variabiliser c'était dire si moi je fais tourner l'appli sur mon pc, il va tenir compte du Que ça tombe sur mon pc,",
+          "speaker": 1,
+          "start_time": "768.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "784.300s",
+          "sentence": " j'aurai toujours le",
+          "speaker": 2,
+          "start_time": "780.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "786.200s",
+          "sentence": " mp45 chez",
+          "speaker": 1,
+          "start_time": "784.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "874.600s",
+          "sentence": " elle à partir de là où ça va changer pour le coup, c'est pas moi qui m'embête à faire ça y est une fonction qui le fait pour moi qui s'appelle fort en fait en gros dans ce qu'on peut construire des des blocs et du pain vin blanc pour les arrêts un bleu pour les pour les meeting avec la liste des routes et du coup si je fais URL pour cette route en particulier. Ben, il récupère il reconstruit du même quel est l' url et du coup après moi, je rajoute juste à la fin la plage de notre parce que je sais que c'est là que ça va être en fait, je suis pas sûr que ce soit là. Après parce que en fait l'application si elle déployés sur un serveur, je pense qu'il y aura un moment donné et donc la vie sera pas de balance hier devant en fait, il y a 30 minutes dans la région dans la dans la pays ne sera pas forcément celle qui sera vu par le Franck",
+          "speaker": 2,
+          "start_time": "786.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "931.700s",
+          "sentence": " quand on met une URL la racine souvent les variabiliser, c'est dans un fichier de variables et après c'est le fond c'est par la prod happy kiki mais c'est parti DCN de base, c'était bien que nous on est bête, on est maître de de la suite. Meeting sache 4 par contre tu as parti avant HTTP machin ça c'est généralement. C'est plutôt la poêle applicatif qui est renseigne ça c'est ce truc là par exemple numéro port c'est c'est généralement, c'est eux qui vont définir le numéro de port. La machine. C'est fini, c'est tout là, tu vois, c'est généralement, c'est variabiliser et nous quand on le renvoie le fichier via des outils de déploiement et il met des bonnes valeurs et en place",
+          "speaker": 1,
+          "start_time": "874.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "977.600s",
+          "sentence": " mais elle s'est bien sûr, je crois en fait parce que en fait le nom de la machine. Et donc c'est pour ça il faut pas non plus de toute façon mettre le nom de la machine parce que la machine défaut sur un",
+          "speaker": 2,
+          "start_time": "931.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "991.900s",
+          "sentence": " serveur et lui vois c'est pas forcément le nom de serveur. Il ça va être le nom du load-balancer cellule au talent sœur qui lui derrière Varo diriger vers la machine,",
+          "speaker": 1,
+          "start_time": "977.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "998.300s",
+          "sentence": " je comprends mais il y a pas moyen pour que",
+          "speaker": 2,
+          "start_time": "991.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1046.600s",
+          "sentence": " ça c'est pour ça qu'on variabilis mais c'est de variables ce que tu fais c'est que tu dois avoir un fichier de paramétrage quelque part et toi tu fais de l'auto-complétion tu auto complète, c'était bien que tu prends 7 noms de variables qui définit dans ton code et tu rajoutes derrière slash API slash meeting, enfin, tu resteras. Mais il faut que tu te fasses foutu, tu passes dans ton code ce que tu as dit, c'est le soir et variable comme ça toutes ses données qui sont variables, il faut que ça soit regroupés dans un seul fichier un endroit unique ça quand on fait du dépôt amende et ben ce fichier là à jour toutes les données sont variables.",
+          "speaker": 1,
+          "start_time": "998.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1084.800s",
+          "sentence": " Donc du coup c'est plus simple pour toi. Tu mets juste à partir de la chapelle et puis voilà du coup ouais, du coup, je pense vraiment quoi après j'imagine que ça ça ça doit figurer dans le fichier de config de lui dire de rajouter le ouais non mais Que ce sera configurer, il faut pas que dans la réponse la réponse tu es",
+          "speaker": 2,
+          "start_time": "1046.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1099.100s",
+          "sentence": " monté voilà, c'est ça et mettre la variable, il additionne après je vais comme ça.",
+          "speaker": 1,
+          "start_time": "1084.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1199.900s",
+          "sentence": " Ok bon bah ça change pas grand-chose du coup et du coup bah voilà, tu peux la fermer sur les bases de données ces derniers temps parce que du coup je suis en train de regarder la 6e heure sur lui souhaiter la bonne pratique normalement et du coup bah voilà. Qu'est-ce qu'il y a pas des masses de trucs en plus c'est une petite base de données mais du coup avec table de Jean entre les deux pour faire le levain savoir quel users participe avec un meeting quelle est alors j'ai rajouté une casse permis avec l'idée que peut-être j'aurai des erreurs d'écriture sur d'un de modification sur une réunion et les droits de lecture je sais pas si ce sera pertinent mais du coup je n'ai pas pour le moment est quoi après une table pour les des sujets pour avoir des tags sur les meeting de sujet par exemple imagine user sur sa plate-forme, il voit tous les vrais pouvoirs chercher tous les meeting si correspondant certains projets ouais certains certaines thématique, voilà. Ok",
+          "speaker": 2,
+          "start_time": "1099.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1202.500s",
+          "sentence": " très bien acheter des tags aussi peut-être la Réunion,",
+          "speaker": 1,
+          "start_time": "1199.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1206.900s",
+          "sentence": " c'est ce que je me dis",
+          "speaker": 2,
+          "start_time": "1202.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1221.400s",
+          "sentence": " mais toi ça sera vachement plus clair tout ça comment utiliser l'application",
+          "speaker": 1,
+          "start_time": "1206.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1263.900s",
+          "sentence": " et reviens en arrière tabou général qui rencontre un gars pour le coup dans l'équipe de Pierre qui nous intéresse aussi dans la sécurité. On sent que tu as",
+          "speaker": 2,
+          "start_time": "1221.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1278s",
+          "sentence": " cru comprendre que ça bloquer pas dans le cadre des projets puisque on utilise des requêtes reste HTTP et du coup on peut se passer de vers PC",
+          "speaker": 1,
+          "start_time": "1263.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1329.200s",
+          "sentence": " et je sais pas si c'est moi qui en fait ça sert à rien Camille avec le Google SD4, on va on va pouvoir. Mais pas de ouais donc service mais pour le moment donc on va voir",
+          "speaker": 2,
+          "start_time": "1278s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1334.900s",
+          "sentence": " la sonde box est isolé de notre environnement c'est ça",
+          "speaker": 1,
+          "start_time": "1329.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1341.500s",
+          "sentence": " les sur le cloud de Google. En fait.",
+          "speaker": 2,
+          "start_time": "1334.900s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1352.800s",
+          "sentence": " En fait, on n'a pas accès on peut pas exposer. Je sais pas des pays de entre 900 de boxe et et donc ça nous",
+          "speaker": 1,
+          "start_time": "1341.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1397.600s",
+          "sentence": " avec le pays actuellement, on aurait aussi d'accord. Alors du coup, je finis ma formation sur les bases de données et du coup je vais m'attaquer à la base mais derrière il sinon il y a toujours en cours sur le côté et",
+          "speaker": 2,
+          "start_time": "1352.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1468.800s",
+          "sentence": " moi du coup je l'ai justement c'est encore tu connais un peu mais mais aujourd'hui je commence à en avoir un peu jusqu'ici de ma formation et en fait c'est de moins en moins c'est super intéressant moi est-ce qu' est-ce qu' il y a beaucoup continue à explorer mais je commence à avoir envie d'appliquer un peu ce que j'ai appris que j'ai bien avancé mes bases et en plus je pense que le reste de ce qu'il y a dans la formation et encore plus intéressant une fois qu'on a quand même pratique, c'est par là, c'est pas le truc qui brille plus généreuse sur comme les bonnes pratiques sur des patterns intelligente intéressant, on veut dire dans dans dans dans l'application d'un peuple. Trop comme comme comme comme sujet et du coup, j'aimerais bien commencer un peu développé du coup, je peux pas parler tout à l'heure parce que du coup mais je pense que ça pourrait pas une réunion complète, tu vas avec l'audio la prescription entière et tout ça et pour que je commence à vraiment développer les du coup la même façon que complète avec tous tous tous tous droits, c'est un peu ça là pour moi quand est joue le ré avec formation de temps en temps pour que tu nous avancer parce qu'il y a sur",
+          "speaker": 1,
+          "start_time": "1397.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1502.200s",
+          "sentence": " la chaîne 2 secondes. Horaires en 2 minutes est-ce qu'on voit la",
+          "speaker": 2,
+          "start_time": "1468.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1561.600s",
+          "sentence": " t'envoyer des réunions les participants il faut un fichier sinon ça marche pas fichier audio parce que c'était en parler tout à l'heure. Mais du coup, on va trouver une méthode pour la route et qu'on sera la bonne manière et du coup on récupère et tu sais pas si la et encore une fois sur deux trucs, j'ai eu 3 jours aussi. J'étais malade toute la France et et et Déformation combien justement ce que je disais à l'instant du coup c'est que j'aimerais bien qu'on passe sur le bouton",
+          "speaker": 1,
+          "start_time": "1502.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1568.100s",
+          "sentence": " ajouter une réunion où c'est qu'il est si j'ai pas un bonhomme en",
+          "speaker": 2,
+          "start_time": "1561.600s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1589.200s",
+          "sentence": " bas à droite c'est plus courant comme ouais. Non mais c'est donc que j'ai trouvé à tout à l'heure et la personne d'une personne",
+          "speaker": 1,
+          "start_time": "1568.100s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1617.500s",
+          "sentence": " et ça c'est cool. Un plus un",
+          "speaker": 2,
+          "start_time": "1589.200s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1633.500s",
+          "sentence": " plus un problème c'est que quand il y aura une réunion, il y aura c'est pas très loin sur la droite. Voilà voilà voilà, il a pas là mais en plus tu es toujours et à",
+          "speaker": 1,
+          "start_time": "1617.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1641s",
+          "sentence": " combien de temps a fait pas non plus",
+          "speaker": 2,
+          "start_time": "1633.500s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1646.400s",
+          "sentence": " mais",
+          "speaker": 1,
+          "start_time": "1641s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1654s",
+          "sentence": " tu peux imaginer sortie",
+          "speaker": 2,
+          "start_time": "1646.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1763.800s",
+          "sentence": " en avoir le un gros tu fais un gros droite qui reste toujours même quand tu déroule ta fenêtre et il bouge pas ces gens sont habite genre de chose. Maintenant, c'est assez classique oui et ça marche que tu sois sur sur. Petit peu d'écran petit grand ça marche tout le temps les choses. Mais si vous êtes prendre un petit truc à faire un saut de France, il était très très abouti même les trucs qui sont qui sont avec les mais en fait ça là pour l'instant, il faut que j'ai tous les éléments qui vont être sur la page sera beaucoup plus simple de savoir où je mets quoi comme un élément les éléments, c'est pas forcément déplace et encore et encore en fait ça ça a été vraiment super simple mais ça paraît compliqué de faire un bouton ici c'est c'est pas compliqué, c'est une fenêtre flottante. Mets la pression sur le fonctionnel et du coup j'aimerais bien avancé, tu as eu du coup on a l'air un peu on a dit ça. Ensuite, on a gagné un peu les routes qu'on a. Qu'est-ce qu'on a dans le bac on a pas un peu des formations qu'on vous ai et du coup ce qu'on te faire maintenant moi du coup moi je veux dessus faire refaire ça marche vraiment constance est complètement schématique parce que c'est pas donné le player. Paris, il va falloir le théâtre et de ton côté féminin, c'est la suite.",
+          "speaker": 1,
+          "start_time": "1654s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1778.700s",
+          "sentence": " Ouais. Ouais ça sur le serveur, c'est vrai que la question de l'authentification reporter à plus tard.",
+          "speaker": 2,
+          "start_time": "1763.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1785.400s",
+          "sentence": " Ouais,",
+          "speaker": 1,
+          "start_time": "1778.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1787.700s",
+          "sentence": " c'est ça en",
+          "speaker": 2,
+          "start_time": "1785.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1789.800s",
+          "sentence": " fait avancer pour un nouveau problème.",
+          "speaker": 1,
+          "start_time": "1787.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1809.400s",
+          "sentence": " Juste on a enregistré la Réunion justement pour tester la transcription",
+          "speaker": 2,
+          "start_time": "1795.800s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1844.600s",
+          "sentence": " et on a eu un mail aussi de devis qui voulait être un peu mais au courant je vois si vous avez vu mais du coup, il avait pris de décision pour bien lui faire un petit mail pour qu'on a réussi à mettre Google dans la boucle est fait. On est un peu on lui envoie une démo une réunion Sims aussi.",
+          "speaker": 1,
+          "start_time": "1809.400s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1904.300s",
+          "sentence": " Bonjour, c'est peut-être les congés pour moi après ok très bien. Merci.",
+          "speaker": 2,
+          "start_time": "1855.700s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1907.600s",
+          "sentence": " Merci à tous. Bonne soirée. Bonne journée.",
+          "speaker": 1,
+          "start_time": "1904.300s"
+        },
+        {
+          "confidence": 0,
+          "end_time": "1909.700s",
+          "sentence": " Bonne fin de journée, à plus.",
+          "speaker": 2,
+          "start_time": "1907.600s"
+        }
+      ],
+      "transcript_azure": [],
+      "transcript_stream": [],
+      "url_files": ""
+    }
+  ]
+}

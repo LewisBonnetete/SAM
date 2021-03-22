@@ -1,0 +1,58 @@
+{
+  "name": "SAM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "dev:mock": "cross-env PET_MOCK=mock parcel src/index.html",
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "cross-env": "^7.0.2",
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "json-loader": "^0.5.7",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.1.1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.1",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@microsoft/mgt-msal-provider": "^2.0.1",
+    "@microsoft/mgt-react": "^2.0.1",
+    "@reach/router": "^1.3.4",
+    "framer-motion": "^2.9.4",
+    "prop-types": "^15.7.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-hook-form": "^6.11.5",
+    "react-is": "^17.0.1",
+    "react-keyboard-event-handler": "^1.5.4",
+    "react-mic": "^12.4.6",
+    "react-mic-record": "^1.0.6",
+    "react-panelgroup": "^1.0.12",
+    "react-resize-panel": "^0.3.5",
+    "react-scroll-hooks": "^0.1.1",
+    "react-use": "^15.3.4",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions"
+  ]
+}

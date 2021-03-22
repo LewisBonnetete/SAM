@@ -1,0 +1,7 @@
+node_mudules/
+.cache/
+.DS_store
+dist/
+coverage/
+.vscode/
+.env
